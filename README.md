@@ -1,0 +1,1 @@
+Graduation Planner is an Android app developed using Java that allows college students to be able to setup a graduation plan. Students can create semesters and add courses to come up with a plan of what courses to take for various semesters.
